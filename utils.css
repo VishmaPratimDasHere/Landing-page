@@ -1,0 +1,26 @@
+.container {
+  height: 63vh;
+}
+
+.bg-dark {
+  background-color: #1f2937;
+}
+
+.bg-grey {
+  background-color: #e5e7eb;
+}
+
+.card {
+  width: 15vw;
+}
+
+.card-img {
+  border: 3px solid #3882f6;
+  height: 15vw;
+  width: 15vw;
+  border-radius: 10px;
+}
+
+.card-text {
+  text-align: center;
+}
